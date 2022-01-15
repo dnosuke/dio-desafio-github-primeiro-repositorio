@@ -1,0 +1,10 @@
+Git
+
+1- objetos internos
+	- blobs
+	- tree
+	- commit
+2- códigos básicos
+	- git init
+	- git add
+	- git commit
